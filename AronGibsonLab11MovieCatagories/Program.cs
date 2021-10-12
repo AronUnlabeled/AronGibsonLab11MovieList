@@ -21,15 +21,11 @@ namespace AronGibsonLab11MovieCatagories
                 new Movie("What Lies Below","horror"),
                 new Movie("Tenet","action"),
             };
-
-
-
             MovieStore myStore = new MovieStore(Inventory);
 
             do {
                 myStore.displayMoviesInCatagory();     
             } while (validate.getContinue());
-
         }
     }
 }
