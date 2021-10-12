@@ -1,0 +1,16 @@
+C:\Users\aron\source\repos\AronGibsonLab11MovieCatagories\AronGibsonLab11MovieCatagories\obj\Debug\net5.0\AronGibsonLab11MovieCatagories.csproj.AssemblyReference.cache
+C:\Users\aron\source\repos\AronGibsonLab11MovieCatagories\AronGibsonLab11MovieCatagories\obj\Debug\net5.0\AronGibsonLab11MovieCatagories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aron\source\repos\AronGibsonLab11MovieCatagories\AronGibsonLab11MovieCatagories\obj\Debug\net5.0\AronGibsonLab11MovieCatagories.AssemblyInfoInputs.cache
+C:\Users\aron\source\repos\AronGibsonLab11MovieCatagories\AronGibsonLab11MovieCatagories\obj\Debug\net5.0\AronGibsonLab11MovieCatagories.AssemblyInfo.cs
+C:\Users\aron\source\repos\AronGibsonLab11MovieCatagories\AronGibsonLab11MovieCatagories\obj\Debug\net5.0\AronGibsonLab11MovieCatagories.csproj.CoreCompileInputs.cache
+C:\Users\aron\source\repos\AronGibsonLab11MovieCatagories\AronGibsonLab11MovieCatagories\bin\Debug\net5.0\AronGibsonLab11MovieCatagories.exe
+C:\Users\aron\source\repos\AronGibsonLab11MovieCatagories\AronGibsonLab11MovieCatagories\bin\Debug\net5.0\AronGibsonLab11MovieCatagories.deps.json
+C:\Users\aron\source\repos\AronGibsonLab11MovieCatagories\AronGibsonLab11MovieCatagories\bin\Debug\net5.0\AronGibsonLab11MovieCatagories.runtimeconfig.json
+C:\Users\aron\source\repos\AronGibsonLab11MovieCatagories\AronGibsonLab11MovieCatagories\bin\Debug\net5.0\AronGibsonLab11MovieCatagories.runtimeconfig.dev.json
+C:\Users\aron\source\repos\AronGibsonLab11MovieCatagories\AronGibsonLab11MovieCatagories\bin\Debug\net5.0\AronGibsonLab11MovieCatagories.dll
+C:\Users\aron\source\repos\AronGibsonLab11MovieCatagories\AronGibsonLab11MovieCatagories\bin\Debug\net5.0\ref\AronGibsonLab11MovieCatagories.dll
+C:\Users\aron\source\repos\AronGibsonLab11MovieCatagories\AronGibsonLab11MovieCatagories\bin\Debug\net5.0\AronGibsonLab11MovieCatagories.pdb
+C:\Users\aron\source\repos\AronGibsonLab11MovieCatagories\AronGibsonLab11MovieCatagories\obj\Debug\net5.0\AronGibsonLab11MovieCatagories.dll
+C:\Users\aron\source\repos\AronGibsonLab11MovieCatagories\AronGibsonLab11MovieCatagories\obj\Debug\net5.0\ref\AronGibsonLab11MovieCatagories.dll
+C:\Users\aron\source\repos\AronGibsonLab11MovieCatagories\AronGibsonLab11MovieCatagories\obj\Debug\net5.0\AronGibsonLab11MovieCatagories.pdb
+C:\Users\aron\source\repos\AronGibsonLab11MovieCatagories\AronGibsonLab11MovieCatagories\obj\Debug\net5.0\AronGibsonLab11MovieCatagories.genruntimeconfig.cache
