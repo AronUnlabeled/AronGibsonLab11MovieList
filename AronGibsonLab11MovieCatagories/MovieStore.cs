@@ -20,7 +20,9 @@ namespace AronGibsonLab11MovieCatagories
             do {
                 Console.WriteLine("Enter a category. horror/scifi/animated/drama");
                 string category = Console.ReadLine().Trim().ToLower();
-                if (movieList.Any(movie => movie.category.ToLower() == category))
+                if (category=="")
+                    Console.WriteLine("You can not enter a blank");
+                else if (movieList.Any(movie => movie.category.ToLower() == category))
                 {
                     foreach (Movie movie in movieList)
                         if (movie.category == category)
