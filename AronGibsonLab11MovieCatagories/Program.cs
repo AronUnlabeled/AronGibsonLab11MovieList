@@ -10,16 +10,16 @@ namespace AronGibsonLab11MovieCatagories
         static void Main(string[] args)
         {
             List<Movie> Inventory = new List<Movie> {
-                new Movie("Candy Man", "horror"),
-                new Movie("Black Widow","action"),
-                new Movie("Venom","action"),
-                new Movie("Space Jam","comedy"),
-                new Movie("Vacation Friends","comedy"),
+                new Movie("365 days", "drama"),
+                new Movie("The Tomorrow war","scifi"),
+                new Movie("Ready Player One", "scifi"),
+                new Movie("Space Jam","animated"),
+                new Movie("Candy Man","horror"),
                 new Movie("Don't Breath 2","horror"),
-                new Movie("The Paper Tigers","action"),
+                new Movie("The Many Saints of Newark","drama"),
                 new Movie("Host","horror"),
                 new Movie("What Lies Below","horror"),
-                new Movie("Tenet","action"),
+                new Movie("Luca","animated"),
             };
             MovieStore myStore = new MovieStore(Inventory);
 
