@@ -18,7 +18,7 @@ namespace AronGibsonLab11MovieCatagories
         public void displayMoviesInCatagory() 
         {
             do {
-                Console.WriteLine("Enter a category");
+                Console.WriteLine("Enter a category. horror/scifi/animated/drama");
                 string category = Console.ReadLine().Trim().ToLower();
                 if (movieList.Any(movie => movie.category.ToLower() == category))
                 {
